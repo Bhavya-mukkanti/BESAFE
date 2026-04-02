@@ -1,2 +1,2 @@
 # BESAFE
-AI Safety App for women: instantly sends SOS messages with live location, calls emergency contacts, tracks routes, and alerts on deviations. Supports voice-triggered SOS and real-time location tracking for enhanced personal safety.
+Smart Safety App with SOS,Shake detection,live location sharing,emergency calling,and alert messaging for quick response in emergencies
